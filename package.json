@@ -1,0 +1,19 @@
+{
+  "name": "deeplearning.ai",
+  "version": "1.0.0",
+  "description": "learn to ai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cn27529/deeplearning.ai.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cn27529/deeplearning.ai/issues"
+  },
+  "homepage": "https://github.com/cn27529/deeplearning.ai#readme"
+}
